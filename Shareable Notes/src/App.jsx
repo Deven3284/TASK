@@ -9,7 +9,7 @@ export default function App() {
         <p className="subtitle">Custom rich text editor • AI helpers • Encryption</p>
       </header>
       <NotesApp />
-      /* <footer className="footer">Built by deven</footer> */
+       <footer className="footer">Built by deven</footer> 
     </div>
   );
 }
